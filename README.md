@@ -19,3 +19,5 @@ Tokens are the unit both context limits and API billing are denominated in, so c
 ---
 
 *This is an independent page with no affiliation to OpenAI or any calculator named here, and all product names and trademarks belong to their respective owners.*
+
+_Last reviewed: 2026-09-22_
